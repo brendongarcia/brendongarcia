@@ -16,9 +16,7 @@ Transformando dados em insights estratégicos para otimizar decisões e processo
 ## 🛠️ Tecnologias & Ferramentas
 
 **Linguagens & Bancos de Dados:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)  
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  
 
 **Data Visualization & BI:**  
 ![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)  
