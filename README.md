@@ -13,16 +13,25 @@ Transformando dados em insights estratégicos para otimizar decisões e processo
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## 🛠️ Linguagens & Ferramentas
 
-**Linguagens & Bancos de Dados:**  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)  
+### 🔹 Linguagens
+![SQL](https://img.shields.io/badge/-SQL-003B57?logo=databricks&logoColor=white&style=for-the-badge)![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge)![DAX](https://img.shields.io/badge/-DAX-ffcc00?logo=powerbi&logoColor=black&style=for-the-badge)  
 
-**Data Visualization & BI:**  
-![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)  
 
-**Ferramentas & Outros:**  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge)![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=for-the-badge)  
+---
+
+### 🔹 Bancos de Dados
+**Relacionais (SQL):**  
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white&style=for-the-badge)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge)![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white&style=for-the-badge)  
+
+**Não relacionais (NoSQL):**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+
+---
+
+### 🔹 Data Visualization & BI
+![Power BI](https://img.shields.io/badge/-PowerBI-F2C811?logo=powerbi&logoColor=black&style=for-the-badge)![Excel](https://img.shields.io/badge/-Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge)
 
 ---
 
