@@ -27,7 +27,8 @@ Transformando dados em insights estratégicos para otimizar decisões e processo
 ---
 
 ## 📊 Estatísticas do GitHub
-![Brendon GitHub stats](https://github-readme-stats.vercel.app/api?username=brendongarcia&show_icons=true&theme=tokyonight)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendongarcia&layout=compact&theme=tokyonight)
+![Brendon GitHub stats](https://github-readme-stats.vercel.app/api?username=brendongarcia&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brendongarcia&layout=compact&theme=tokyonight)
 
 ---
 
