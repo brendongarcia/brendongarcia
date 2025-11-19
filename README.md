@@ -1,13 +1,13 @@
 # 👋 Olá, eu sou o Brendon Garcia  
 
-💡 **Analista de Dados | SQL | Python | Power BI | Engenharia de Software**  
-Transformando dados em insights estratégicos para otimizar decisões e processos.
+💡 **Desenvolvedor Back-End / Full-Stack | SQL | C# | JavaScript | Engenharia de Software
+Criando soluções eficientes, escaláveis e orientadas a dados.
 
 ---
 
 ## 🚀 Sobre mim
 🎓 Estudante de Engenharia de Software  
-📊 Experiência prática com **SQL, Python e Power BI**  
+📊 Experiência prática com **SQL, Python e Power BI, C#, JavaScript**  
 📈 Atuo em projetos de **automação, análise de dados e relatórios estratégicos**  
 💻 Também com experiência em **Node.js, React e desenvolvimento web**  
 
