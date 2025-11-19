@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Brendon Garcia  
 
 💡 **Desenvolvedor Back-End / Full-Stack | SQL | C# | JavaScript | Engenharia de Software
-Criando soluções eficientes, escaláveis e orientadas a dados.
 
 ---
 
