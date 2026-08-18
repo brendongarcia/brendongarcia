@@ -149,8 +149,12 @@ Sistema bancário em linha de comando com Node.js: criação de contas, consulta
 ## 📊 GitHub
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api?username=brendongarcia&show_icons=true&hide_border=true&theme=tokyonight" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=brendongarcia&layout=compact&hide_border=true&theme=tokyonight" alt="Linguagens mais usadas">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=brendongarcia&theme=tokyonight" alt="Resumo do perfil no GitHub">
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=brendongarcia&theme=tokyonight" alt="Repositórios por linguagem">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=brendongarcia&theme=tokyonight" alt="Linguagens mais commitadas">
 </p>
 
 ---
